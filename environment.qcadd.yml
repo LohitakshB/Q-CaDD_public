@@ -1,0 +1,25 @@
+name: qcadd_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26
+  - pandas=2.2
+  - scipy=1.13.1
+  - scikit-learn=1.6.1
+  - matplotlib=3.10
+  - rdkit=2024.09
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - selfies==2.1.2
+      - imbalanced-learn==0.13.0
+      - qiskit==1.3.2
+      - qiskit-algorithms==0.3.1
+      - qiskit-machine-learning==0.8.2
+      - joblib==1.4.2
+      - sklearn-compat==0.1.3
+      - threadpoolctl==3.5.0
+      - torch==2.6.0
