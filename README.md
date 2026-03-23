@@ -4,3 +4,4 @@ The Epidermal Growth Factor Receptor (EGFR) is a transmembrane protein in the Re
 
 
 
+DOI: https://link.springer.com/article/10.1038/s41598-026-44978-4
